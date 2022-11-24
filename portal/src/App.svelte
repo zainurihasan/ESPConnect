@@ -72,7 +72,7 @@
 <div class="container main-container">
 	<div class="row">
 		<div class="column text-center">
-			<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" class="logo"><path d="M5 12L3 12 3 21 12 21 12 19 5 19zM12 5L19 5 19 12 21 12 21 3 12 3z"></path></svg>
+			<!-- <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" class="logo"><path d="M5 12L3 12 3 21 12 21 12 19 5 19zM12 5L19 5 19 12 21 12 21 3 12 3z"></path></svg> -->
 		</div>
 	</div>
 	<div class="row mb-2">
@@ -105,10 +105,10 @@
 	<div class="row">
 		<div class="column text-sm text-muted">
 			<p class="text-center">
-				Made with ❤️ by <a href="https://github.com/ayushsharma82" target="_blank">ayushsharma82</a>.
+				<!-- Made with ❤️ by <a href="https://github.com/ayushsharma82" target="_blank">ayushsharma82</a>. -->
 			</p>
 			<p class="text-center">
-				<a href="https://www.buymeacoffee.com/6QGVpSj" target="_blank">Buy me a coffee ☕</a>
+				<!-- <a href="https://www.buymeacoffee.com/6QGVpSj" target="_blank">Buy me a coffee ☕</a> -->
 			</p>
 		</div>
 	</div>
